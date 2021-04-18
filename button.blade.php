@@ -1,4 +1,5 @@
 <button>
+
   <p>Dashboard</p>
 
   @component('card', { name: 'bob' })
@@ -39,4 +40,5 @@
       color: dodgerblue !important;
     }
   </style>
+
 </button>
